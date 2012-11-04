@@ -1,0 +1,3 @@
+[submodule "Knowing"]
+	path = Knowing
+	url = git://github.com/knowing/Knowing.git
